@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3570015998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79f77afc337e17ee0a21981a60bec0c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 162247691d9583b29efefec9da58eea5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d44fbe20a24270240912f6facb38a9ad, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RPGStarterStylizedWeaponPack/Prefabs/Axe01Low.prefab
+Dependencies: []
