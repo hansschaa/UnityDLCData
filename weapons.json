@@ -1,13 +1,13 @@
 [
-{"WeaponType":"Ball","Attack":"15","Resistance":"10","Cost":"500","BundlePath":"https://files.catbox.moe/sdsvru","IconPath":"AxeIcon"},
-{"WeaponType":"Arrow","Attack":"20","Resistance":"5","Cost":"700","BundlePath":"https://files.catbox.moe/z4fxz2","IconPath":"SwordIcon"},
+{"WeaponType":"Ball","Attack":"15","Resistance":"10","Cost":"500","BundlePath":"https://files.catbox.moe/sdsvru","IconPath":"https://github.com/hansschaa/UnityDLCData/blob/master/Ball.png"},
+{"WeaponType":"Arrow","Attack":"20","Resistance":"5","Cost":"700","BundlePath":"https://files.catbox.moe/z4fxz2","IconPath":"https://github.com/hansschaa/UnityDLCData/blob/master/Arrow.png"},
   {
     "WeaponType": "Axe",
     "Attack": "15",
     "Resistance": "15",
     "Cost": "600",
     "BundlePath": "https://files.catbox.moe/m3nrxg",
-    "IconPath": "Ball"
+    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Axe.png"
   },
   {
     "WeaponType": "Bow",
@@ -15,7 +15,7 @@
     "Resistance": "15",
     "Cost": "600",
     "BundlePath": "https://files.catbox.moe/p6k6ao",
-    "IconPath": "SpearIcon"
+    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Bow.png"
   },
   {
     "WeaponType": "Hammer",
@@ -23,7 +23,7 @@
     "Resistance": "15",
     "Cost": "600",
     "BundlePath": "https://files.catbox.moe/cis72d",
-    "IconPath": "SpearIcon"
+    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Hammer.png"
   },
   {
     "WeaponType": "Spear",
@@ -31,7 +31,7 @@
     "Resistance": "15",
     "Cost": "600",
     "BundlePath": "https://files.catbox.moe/uku4c4",
-    "IconPath": "SpearIcon"
+    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Spear.png"
   },
   {
     "WeaponType": "Staff",
@@ -39,7 +39,7 @@
     "Resistance": "15",
     "Cost": "600",
     "BundlePath": "https://files.catbox.moe/ih5ms1",
-    "IconPath": "SpearIcon"
+    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Staff.png"
   },
   {
     "WeaponType": "Sword",
@@ -47,7 +47,7 @@
     "Resistance": "15",
     "Cost": "600",
     "BundlePath": "https://files.catbox.moe/pyk0y8",
-    "IconPath": "SpearIcon"
+    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Sword.png"
   }
 
 ]
