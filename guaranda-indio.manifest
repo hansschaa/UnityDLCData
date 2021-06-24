@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 812867312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0c011d71fc23cd1270c9afb20c2e631
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fbd92e9a18ad6dfa19bf7be11fac700
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/guaranda-indio.prefab
+Dependencies: []
