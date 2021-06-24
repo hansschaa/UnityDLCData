@@ -1,5 +1,5 @@
 [
-{"Weapon":"Axe","Attack":"15","Resistance":"10","Cost":"500","Bundle Path":"AxeBundle","Icon Path":"AxeIcon"},
-{"Weapon":"Sword","Attack":"20","Resistance":"5","Cost":"700","Bundle Path":"SwordBundle","Icon Path":"SwordIcon"},
-{"Weapon":"Spear","Attack":"15","Resistance":"15","Cost":"600","Bundle Path":"SpearBundle","Icon Path":"SpearIcon"}
+{"WeaponType":"Axe","Attack":"15","Resistance":"10","Cost":"500","BundlePath":"AxeBundle","IconPath":"AxeIcon"},
+{"WeaponType":"Sword","Attack":"20","Resistance":"5","Cost":"700","BundlePath":"SwordBundle","IconPath":"SwordIcon"},
+{"WeaponType":"Spear","Attack":"15","Resistance":"15","Cost":"600","BundlePath":"SpearBundle","IconPath":"SpearIcon"}
 ]
