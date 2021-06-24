@@ -1,5 +1,53 @@
 [
-{"WeaponType":"Axe","Attack":"15","Resistance":"10","Cost":"500","BundlePath":"AxeBundle","IconPath":"AxeIcon"},
-{"WeaponType":"Sword","Attack":"20","Resistance":"5","Cost":"700","BundlePath":"SwordBundle","IconPath":"SwordIcon"},
-{"WeaponType":"Spear","Attack":"15","Resistance":"15","Cost":"600","BundlePath":"SpearBundle","IconPath":"SpearIcon"}
+{"WeaponType":"Ball","Attack":"15","Resistance":"10","Cost":"500","BundlePath":"https://files.catbox.moe/sdsvru","IconPath":"AxeIcon"},
+{"WeaponType":"Arrow","Attack":"20","Resistance":"5","Cost":"700","BundlePath":"https://files.catbox.moe/z4fxz2","IconPath":"SwordIcon"},
+{
+    "WeaponType": "Axe",
+    "Attack": "15",
+    "Resistance": "15",
+    "Cost": "600",
+    "BundlePath": "https://files.catbox.moe/m3nrxg",
+    "IconPath": "SpearIcon"
+  },
+  {
+    "WeaponType": "Bow",
+    "Attack": "15",
+    "Resistance": "15",
+    "Cost": "600",
+    "BundlePath": "https://files.catbox.moe/p6k6ao",
+    "IconPath": "SpearIcon"
+  },
+  {
+    "WeaponType": "Hammer",
+    "Attack": "15",
+    "Resistance": "15",
+    "Cost": "600",
+    "BundlePath": "https://files.catbox.moe/cis72d",
+    "IconPath": "SpearIcon"
+  },
+  {
+    "WeaponType": "Spear",
+    "Attack": "15",
+    "Resistance": "15",
+    "Cost": "600",
+    "BundlePath": "https://files.catbox.moe/uku4c4",
+    "IconPath": "SpearIcon"
+  },
+  {
+    "WeaponType": "Staff",
+    "Attack": "15",
+    "Resistance": "15",
+    "Cost": "600",
+    "BundlePath": "https://files.catbox.moe/ih5ms1",
+    "IconPath": "SpearIcon"
+  },
+  {
+    "WeaponType": "Sword",
+    "Attack": "15",
+    "Resistance": "15",
+    "Cost": "600",
+    "BundlePath": "https://files.catbox.moe/pyk0y8",
+    "IconPath": "SpearIcon"
+  }
+
 ]
