@@ -1,53 +1,67 @@
 [
-{"WeaponType":"Ball","Attack":"15","Resistance":"10","Cost":"500","BundlePath":"https://files.catbox.moe/sdsvru","IconPath":"https://github.com/hansschaa/UnityDLCData/blob/master/Ball.png"},
-{"WeaponType":"Arrow","Attack":"20","Resistance":"5","Cost":"700","BundlePath":"https://files.catbox.moe/z4fxz2","IconPath":"https://github.com/hansschaa/UnityDLCData/blob/master/Arrow.png"},
+  {
+    "WeaponType": "Ball",
+    "Attack": "15",
+    "Resistance": "12",
+    "Cost": "650",
+    "BundlePath": "https://files.catbox.moe/sdsvru",
+    "IconPath": "https://files.catbox.moe/n4fb6s.png"
+  },
+  {
+    "WeaponType": "Arrow",
+    "Attack": "5",
+    "Resistance": "1",
+    "Cost": "50",
+    "BundlePath": "https://files.catbox.moe/z4fxz2",
+    "IconPath": "https://files.catbox.moe/aamgtv.png"
+  },
   {
     "WeaponType": "Axe",
     "Attack": "15",
-    "Resistance": "15",
-    "Cost": "600",
+    "Resistance": "20",
+    "Cost": "1000",
     "BundlePath": "https://files.catbox.moe/m3nrxg",
-    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Axe.png"
+    "IconPath": "https://files.catbox.moe/hvxkr4.png"
   },
   {
     "WeaponType": "Bow",
-    "Attack": "15",
-    "Resistance": "15",
-    "Cost": "600",
+    "Attack": "30",
+    "Resistance": "20",
+    "Cost": "1200",
     "BundlePath": "https://files.catbox.moe/p6k6ao",
-    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Bow.png"
+    "IconPath": "https://files.catbox.moe/giyovv.png"
   },
   {
     "WeaponType": "Hammer",
-    "Attack": "15",
-    "Resistance": "15",
-    "Cost": "600",
+    "Attack": "22",
+    "Resistance": "20",
+    "Cost": "1150",
     "BundlePath": "https://files.catbox.moe/cis72d",
-    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Hammer.png"
+    "IconPath": "https://files.catbox.moe/l6349l.png"
   },
   {
     "WeaponType": "Spear",
-    "Attack": "15",
-    "Resistance": "15",
-    "Cost": "600",
+    "Attack": "10",
+    "Resistance": "20",
+    "Cost": "400",
     "BundlePath": "https://files.catbox.moe/uku4c4",
-    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Spear.png"
+    "IconPath": "https://files.catbox.moe/ygr6gl.png"
   },
   {
     "WeaponType": "Staff",
-    "Attack": "15",
+    "Attack": "30",
     "Resistance": "15",
-    "Cost": "600",
+    "Cost": "800",
     "BundlePath": "https://files.catbox.moe/ih5ms1",
-    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Staff.png"
+    "IconPath": "https://files.catbox.moe/vm4vac.png"
   },
   {
     "WeaponType": "Sword",
-    "Attack": "15",
-    "Resistance": "15",
-    "Cost": "600",
+    "Attack": "40",
+    "Resistance": "20",
+    "Cost": "650",
     "BundlePath": "https://files.catbox.moe/pyk0y8",
-    "IconPath": "https://github.com/hansschaa/UnityDLCData/blob/master/Sword.png"
+    "IconPath": "https://files.catbox.moe/bho7js.png"
   }
 
 ]
